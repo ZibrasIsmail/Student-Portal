@@ -1,5 +1,5 @@
-# simple-auth-app
-Simple role based authentication app with MERN stack for Ecologital.
+# student-portal
+
 
 Here are the steps that you need to follow to run the app on your machine, Incase you need
 
